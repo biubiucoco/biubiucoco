@@ -1,0 +1,42 @@
+.top {
+	font-size: 12px;
+	line-height: 25px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.left{
+	font-size: 12px;
+	font-style: normal;
+	line-height: 22px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}.foot {
+	font-size: 12px;
+	line-height: 25px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.sy {
+	font-size: 12px;
+	line-height: 25px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.about {
+	font-size: 13px;
+	line-height: 28px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.cpzi {
+	font-size: 12px;
+	line-height: 32px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
