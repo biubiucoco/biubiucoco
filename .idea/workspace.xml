@@ -2,100 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e0fb95-41d5-4436-88be-74db793ed422" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/biubiucoco.github.io.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/.idea/zt.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Applications.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/GuestBook.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/IMG_0206.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/IMG_0282.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/Index_r6_c1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/ab.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/cp.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/jjbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/left1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/left2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/left3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/left4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/menu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/ne.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/top.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/top2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/topbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Images/xwbg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/InClude/Images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/InClude/Images/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/InClude/Images/pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/InClude/Images/preload.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/InClude/Images/prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/InClude/Images/start.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/InClude/clearbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/InClude/clearbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/News.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/PageStyle/Page.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Products.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Products_z.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Top.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/2016_3_22_21_54_59.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/2016_3_22_21_57_45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/applications.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/chaiji1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/chaiji2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/chaiji3.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/chaiji4.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/chaiji5.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/chaiji6.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/chaiji7.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/chaiji8.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/chilun1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/chilun2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/daogui.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/daore.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/fangdong.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/fangxiu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/qiege1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/qiege2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/qiege3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/qiege4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/runhua9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/xitongyong.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/yeya1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/yeya2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/yeya3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/yeya4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/yeya5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/yeya6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/zhuzhou.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/zizhi1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/Upload/zizhi2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/chaijiyou.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/chilun.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/chilunyou.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/runhua.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zt/yeyayou.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -143,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -367,7 +274,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="266" />
+    <option name="x" value="178" />
+    <option name="y" value="59" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
@@ -441,15 +349,15 @@
       <updated>1504624831003</updated>
       <workItem from="1504624833257" duration="1803000" />
       <workItem from="1504933211207" duration="15112000" />
-      <workItem from="1512482470157" duration="168000" />
+      <workItem from="1512482470157" duration="1511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17083000" />
+    <option name="totallyTimeSpent" value="18426000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="266" y="0" width="1400" height="990" extended-state="0" />
+    <frame x="178" y="59" width="1400" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27858177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -865,7 +773,7 @@
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
           <folding />
         </state>
       </provider>
